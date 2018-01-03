@@ -1,5 +1,5 @@
 # Rubik-s-Cube-
-Rubik's cube with OpenGL written with c++
+Rubik's cube with OpenGL written with c++, project's solution is compiled with Visual Studio 2017.
 
 Rendering a dynamic Rubic's cube using Rotations and Translations.
 
